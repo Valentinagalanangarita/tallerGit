@@ -2,3 +2,4 @@ Primera linea del taller
 Nueva linea agregada en la rama adicionar
 Modificación de contenido en la rama modificar
 Esta linea será eliminada
+Consulta de datos en la rama consultar
